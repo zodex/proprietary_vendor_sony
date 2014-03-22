@@ -175,6 +175,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/rhine-common/proprietary/lib/libcacao_parammgr.so:system/lib/libcacao_parammgr.so \
     vendor/sony/rhine-common/proprietary/lib/libcacao_service.so:system/lib/libcacao_service.so \
     vendor/sony/rhine-common/proprietary/lib/libcald_client.so:system/lib/libcald_client.so \
+    vendor/sony/rhine-common/proprietary/lib/libcald_hal.so:system/lib/libcald_hal.so \
     vendor/sony/rhine-common/proprietary/lib/libcald_imageutil.so:system/lib/libcald_imageutil.so \
     vendor/sony/rhine-common/proprietary/lib/libcald_pal.so:system/lib/libcald_pal.so \
     vendor/sony/rhine-common/proprietary/lib/libcald_server.so:system/lib/libcald_server.so \
@@ -369,9 +370,12 @@ PRODUCT_COPY_FILES += \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
+    vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so:system/vendor/lib/libmmcamera_ofilm_oty5f03_eeprom.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so:system/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so:system/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so \
+    vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so:system/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
+    vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_tintless_bg_pca_algo.so:system/vendor/lib/libmmcamera_tintless_bg_pca_algo.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_truly_cm7700_eeprom.so:system/vendor/lib/libmmcamera_truly_cm7700_eeprom.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
