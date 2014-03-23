@@ -164,6 +164,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/rhine-common/proprietary/lib/camera/libexcal_idtctrl_plugin.so:system/lib/camera/libexcal_idtctrl_plugin.so \
     vendor/sony/rhine-common/proprietary/lib/hw/vendor-camera.qcom.so:system/lib/hw/vendor-camera.qcom.so \
     vendor/sony/rhine-common/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
+    vendor/sony/rhine-common/proprietary/lib/hw/keystore.qcom.so:system/lib/hw/keystore.qcom.so \
     vendor/sony/rhine-common/proprietary/lib/hw/vendor-lights.default.so:system/lib/hw/vendor-lights.default.so \
     vendor/sony/rhine-common/proprietary/lib/hw/nfc.msm8974.so:system/lib/hw/nfc.msm8974.so \
     vendor/sony/rhine-common/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
@@ -252,6 +253,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/rhine-common/proprietary/usr/keylayout/gpio-keys.kl:system/usr/keylayout/gpio-keys.kl \
     vendor/sony/rhine-common/proprietary/usr/keylayout/mhl-rcp.kl:system/usr/keylayout/mhl-rcp.kl \
     vendor/sony/rhine-common/proprietary/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl:system/usr/keylayout/msm8974-taiko-mtp-snd-card_Button_Jack.kl \
+    vendor/sony/rhine-common/proprietary/vendor/firmware/keymaster/keymaster.b00:system/vendor/firmware/keymaster/keymaster.b00 \
+    vendor/sony/rhine-common/proprietary/vendor/firmware/keymaster/keymaster.b01:system/vendor/firmware/keymaster/keymaster.b01 \
+    vendor/sony/rhine-common/proprietary/vendor/firmware/keymaster/keymaster.b02:system/vendor/firmware/keymaster/keymaster.b02 \
+    vendor/sony/rhine-common/proprietary/vendor/firmware/keymaster/keymaster.b03:system/vendor/firmware/keymaster/keymaster.b03 \
+    vendor/sony/rhine-common/proprietary/vendor/firmware/keymaster/keymaster.mdt:system/vendor/firmware/keymaster/keymaster.mdt \
     vendor/sony/rhine-common/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/hw/sensors.msm8974.so:system/vendor/lib/hw/sensors.msm8974.so \
     vendor/sony/rhine-common/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
