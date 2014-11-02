@@ -20,6 +20,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/bin/bridgemgrd:system/bin/bridgemgrd \
     vendor/sony/eagle/proprietary/bin/display_color_calib:system/bin/display_color_calib \
     vendor/sony/eagle/proprietary/bin/hvdcp:system/bin/hvdcp \
+    vendor/sony/eagle/proprietary/bin/led_service:system/bin/led_service \
     vendor/sony/eagle/proprietary/bin/port-bridge:system/bin/port-bridge \
     vendor/sony/eagle/proprietary/bin/ptt_socket_app:system/bin/ptt_socket_app \
     vendor/sony/eagle/proprietary/bin/qcom-system-daemon:system/bin/qcom-system-daemon \
