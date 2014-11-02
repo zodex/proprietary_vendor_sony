@@ -197,12 +197,12 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/lib/libface.so:system/lib/libface.so \
     vendor/sony/eagle/proprietary/lib/libface_jni.so:system/lib/libface_jni.so \
     vendor/sony/eagle/proprietary/lib/libface_shared.so:system/lib/libface_shared.so \
-    vendor/sony/eagle/proprietary/lib/libface_wrapper.so:system/libface_wrapper.so \
-    vendor/sony/eagle/proprietary/lib/libbeautyface.so:system/libbeautyface.so \
-    vendor/sony/eagle/proprietary/lib/libfaceanalyzer.so:system/libfaceanalyzer.so \
-    vendor/sony/eagle/proprietary/lib/libfaceengine.so:system/libfaceengine.so \
-    vendor/sony/eagle/proprietary/lib/libfacelock_jni.so:system/libfacelock_jni.so \
-    vendor/sony/eagle/proprietary/lib/libfilterpack_facedetect.so:system/libfilterpack_facedetect.so \
+    vendor/sony/eagle/proprietary/lib/libface_wrapper.so:system/lib/libface_wrapper.so \
+    vendor/sony/eagle/proprietary/lib/libbeautyface.so:system/lib/libbeautyface.so \
+    vendor/sony/eagle/proprietary/lib/libfaceanalyzer.so:system/lib/libfaceanalyzer.so \
+    vendor/sony/eagle/proprietary/lib/libfaceengine.so:system/lib/libfaceengine.so \
+    vendor/sony/eagle/proprietary/lib/libfacelock_jni.so:system/lib/libfacelock_jni.so \
+    vendor/sony/eagle/proprietary/lib/libfilterpack_facedetect.so:system/lib/libfilterpack_facedetect.so \
     vendor/sony/eagle/proprietary/lib/libidd.so:system/lib/libidd.so \
     vendor/sony/eagle/proprietary/lib/libkeyctrl.so:system/lib/libkeyctrl.so \
     vendor/sony/eagle/proprietary/lib/liblights-core.so:system/lib/liblights-core.so \
