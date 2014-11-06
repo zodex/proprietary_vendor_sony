@@ -185,6 +185,7 @@ PRODUCT_COPY_FILES += \
     vendor/sony/eagle/proprietary/etc/firmware/wcnss.mdt:system/etc/firmware/wcnss.mdt \
     vendor/sony/eagle/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.vendor.msm8226.so \
     vendor/sony/eagle/proprietary/lib/hw/lights.msm8226.so:system/lib/hw/lights.vendor.msm8226.so \
+    vendor/sony/eagle/proprietary/lib/hw/nfc_nci_pn547.msm8226.so:system/lib/hw/nfc_nci_pn547.msm8226.so \
     vendor/sony/eagle/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
     vendor/sony/eagle/proprietary/lib/hw/sensorsecond.msm8226.so:system/lib/hw/sensorsecond.msm8226.so \
     vendor/sony/eagle/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
